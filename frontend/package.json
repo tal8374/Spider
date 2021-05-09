@@ -10,7 +10,7 @@
     "react-graph-vis": "^1.0.5",
     "react-router-dom": "^5.2.0",
     "react-scripts": "0.9.5",
-    "url-parse": "^1.4.7"
+    "url-parse": "^1.5.0"
   },
   "devDependencies": {},
   "scripts": {
